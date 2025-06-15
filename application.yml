@@ -1,3 +1,7 @@
+spring:
+  application:
+    name: TEST-SERVER
+
 # EUREKA CLIENT CONFIGURATION
 eureka:
   instance:
